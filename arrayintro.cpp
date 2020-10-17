@@ -1,8 +1,8 @@
 #include <cmath>
-#inlcude <cstdio>
-#inlcude <vector>
-#inlcude <iostream>
-#inlcude <algorithm>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
 
 using namespace std;
 
